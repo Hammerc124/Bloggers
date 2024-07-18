@@ -1,0 +1,18 @@
+
+[
+    {
+      "name": "Wyatt Burp",
+      "email": "wburp@yahoo.com",
+      "password": "pass1"
+    },
+    {
+      "name": "Caleb Hammer",
+      "email": "hammer.calebr@gmail.com",
+      "password": "pass2"
+    },
+    {
+      "name": "Flora Bunda",
+      "email": "florabunda@live.com",
+      "password": "pass3"
+    }
+  ]
