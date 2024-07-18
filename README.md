@@ -64,11 +64,9 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 ## Preview Images
 - ## Preview - Home
-![Website Preview Image](./assets/homepreview.png)
-- ## Preview - Dashboard 
-![Website Preview Image](./assets/dashboardpreview.png)
+![Website Preview Image](./assets/Bloggers-home.png)
 - ## Preview - Login 
-![Website Preview Image](./assets/loginpreview.png)
+![Website Preview Image](./assets/Bloggerslogin.png)
 
 
 ## Link To Walkthru Video
